@@ -1,0 +1,15 @@
+{
+  "connections": [
+    {
+      "id": "db1",
+      "client": "mssql",
+      "connection": {
+        "host": "localhost",
+        "port": 1433,
+        "user": "sa",
+        "database": "tempdb",
+        "password": "Admin@123"
+      }
+    }
+  ]
+}

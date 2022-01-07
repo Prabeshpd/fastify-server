@@ -1,0 +1,5 @@
+basePath: src
+
+migration:
+  directory: migrations
+  sourceType: typescript
